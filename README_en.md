@@ -74,7 +74,7 @@ Server password：123456
 
 ```sh
 # download and install sealos, sealos is a binary tool of golang, just download and copy directly to the bin directory, the release page can also be downloaded
-$ wget -c https://sealyun.oss-cn-beijing.aliyuncs.com/latest/sealos && \
+$ wget -c https://sealyun-home.oss-cn-beijing.aliyuncs.com/sealos/latest/sealos && \
     chmod +x sealos && mv sealos /usr/bin
 
 # download offline resource pack
@@ -150,6 +150,9 @@ $ sealos init --passwd '123456' \
 
 ![Alt](https://repobeats.axiom.co/api/embed/10ce83c1d8452210bc4a0b5a5df9d59bbc35d889.svg "Repobeats analytics image")
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fanux/sealos&type=Date)](https://star-history.com/#fanux/sealos&Date)
 
 [简体中文](README.md)
 
